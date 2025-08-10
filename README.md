@@ -47,14 +47,21 @@ docs/ # Photos, wiring diagrams, and schematics
 ---
 
 ## 📊 Results
-- Input voltage range tested: **  **  
-- Regulated output: **  **  
-- Max load tested: **  **  
-- Efficiency: **  **
+- Input voltage range tested: 0.37 V 
+- Regulated output: 4.979 V  
+- Max load tested:    
+- Efficiency: 
 
 ---
+## 📷 Project Photos
 
-## 🖼️ Images
+![Boost Converter Prototype](boost_converter_prototype.jpg)  
+*Custom-built boost converter on perfboard.*
 
+![Regulated Output Measurement](regulated_output.jpg)  
+*Multimeter showing stable ~5.0 V regulated output.*
+
+![Breadboard Test Setup](breadboard_setup.jpg)  
+*Arduino and boost converter test setup during development.*
 
 ---
