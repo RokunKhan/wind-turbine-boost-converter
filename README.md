@@ -1,3 +1,4 @@
+# Wind Turbine with Boost Converter
 Convert mechanical energy from a BLDC (used as a wind turbine generator) into a stable DC output.  
 Path: **BLDC → 3-Phase Rectifier → Boost Converter → Arduino PWM Regulation → LED Load**.
 
@@ -47,10 +48,10 @@ docs/ # Photos, wiring diagrams, and schematics
 ---
 
 ## 📊 Results
-- Input voltage range tested: 0.37 V 
-- Regulated output: 4.979 V  
-- Max load tested:    
-- Efficiency: 
+- Input voltage range tested: 0.37 V
+- Regulated output: 4.979 V
+- Max load tested: Single LED with 1 kΩ series resistor
+- Efficiency: Not measured — estimated ~60–80% for low-load conditions
 
 ---
 ## 📷 Project Photos
